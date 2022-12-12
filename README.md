@@ -82,4 +82,5 @@
 #### dataMhs.tampilkan()
 ### Tampilan Program Ketika Dijalankan
 
+![image](https://user-images.githubusercontent.com/115569493/206939859-ee030e57-5ae2-4167-bd03-900808be770a.png)
 
